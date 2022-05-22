@@ -11,8 +11,8 @@ import (
 	// "github.com/valyala/fasthttp"
 	// "github.com/valyala/fasthttp/fasthttpadaptor"
 
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/marketplace"
-	"qxklmrhx7qkzais6.onion/Tochka/tochka-free-market/modules/settings"
+	"github.com/profisender/tochka-source/tree/master/modules/marketplace"
+	"github.com/profisender/tochka-source/tree/master/modules/settings"
 )
 
 var (
